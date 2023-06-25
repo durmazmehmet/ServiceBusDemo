@@ -1,0 +1,12 @@
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\bin\Debug\net6.0\SBShared.deps.json
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\bin\Debug\net6.0\SBShared.dll
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\bin\Debug\net6.0\SBShared.pdb
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\SBShared.csproj.AssemblyReference.cache
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\SBShared.AssemblyInfoInputs.cache
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\SBShared.AssemblyInfo.cs
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\SBShared.csproj.CoreCompileInputs.cache
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\SBShared.dll
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\refint\SBShared.dll
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\SBShared.pdb
+D:\Mehmet\QueueWorkout\ServiceBusDemo\SBShared\obj\Debug\net6.0\ref\SBShared.dll

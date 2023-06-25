@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSender", "SBSender\SBSender.csproj", "{866C5AB1-2016-4461-A8C9-7213105A0271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBShared", "SBShared\SBShared.csproj", "{EF4CA884-31D6-4471-82A3-093C3D02161B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReceiver", "SBReceiver\SBReceiver.csproj", "{D3F97D12-8EF2-4A6F-A534-07EBA4CD3278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{866C5AB1-2016-4461-A8C9-7213105A0271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866C5AB1-2016-4461-A8C9-7213105A0271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866C5AB1-2016-4461-A8C9-7213105A0271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866C5AB1-2016-4461-A8C9-7213105A0271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4CA884-31D6-4471-82A3-093C3D02161B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4CA884-31D6-4471-82A3-093C3D02161B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4CA884-31D6-4471-82A3-093C3D02161B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4CA884-31D6-4471-82A3-093C3D02161B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F97D12-8EF2-4A6F-A534-07EBA4CD3278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F97D12-8EF2-4A6F-A534-07EBA4CD3278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F97D12-8EF2-4A6F-A534-07EBA4CD3278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F97D12-8EF2-4A6F-A534-07EBA4CD3278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBADA90-779A-409D-828D-F7E01FA2A44C}
+	EndGlobalSection
+EndGlobal
